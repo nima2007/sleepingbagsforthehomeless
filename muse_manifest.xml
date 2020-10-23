@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://sleepingbagsforthehomelessofsiliconvalley.com" resolutions="1x" timestamp="1603424769774">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://sleepingbagsforthehomelessofsiliconvalley.com" resolutions="1x" timestamp="1603425659776">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="280593342" ref="index"/>
+    <file name="index.css" crc="3958488560" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -11,5 +11,5 @@
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
-  <file name="index.html" crc="500612680" seo="true" mt="1603424738972" redirect="true"/>
+  <file name="index.html" crc="142266493" seo="true" mt="1603425418417" redirect="true"/>
 </manifest>
